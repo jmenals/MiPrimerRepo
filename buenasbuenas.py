@@ -1,2 +1,2 @@
 print("Buenas buenas")
-input("Ingrese: ")
+input("Ingrese: " )
